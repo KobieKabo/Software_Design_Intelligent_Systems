@@ -1,6 +1,6 @@
 # Automobile Fuel Efficiency Prediction Using Linear Regression
 
-This repository contains Project 1 for COE 379L - Software Design for Responsible Intelligent Systems - at the University of Texas. The objective of this project was to forecast the fuel efficiency of automobiles utilizing a linear regression machine learning model. The repository includes a Jupyter Notebook (`automobiles_linearRegressionModel.ipynb`) detailing the data preparation, model training, and analysis process, along with a PDF report summarizing the project's insights and conclusions.
+This repository contains Project 1 for COE 379L - Software Design for Responsible Intelligent Systems - at the University of Texas. The objective of this project was to forecast the fuel efficiency of automobiles utilizing a linear regression machine learning model. The repository includes a Jupyter Notebook (`Mpg_LinearRegressionModel.ipynb`) detailing the data preparation, model training, and analysis process, along with a PDF report summarizing the project's insights and conclusions.
 
 ## Project Overview
 
